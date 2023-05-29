@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Techpragna Technologies Private Limited. London</h1>
-<h1 align="center"> Techpragna Technologies- Very Good Training center for DevOps with AWS in Shivaji Nagar Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center">Welcome to IIHT Technologies Private Limited. London</h1>
+<h1 align="center"> IIHT Technologies- Very Good Training center for DevOps with AWS in Shivaji Nagar Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
